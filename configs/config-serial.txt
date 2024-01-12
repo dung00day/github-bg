@@ -1,0 +1,10 @@
+plc_port COM3
+sfc_send_port COM9
+sfc_receive_port COM11
+machine2_port COM13
+machine4_port COM15
+baud_plc 115200
+baud 9600
+timer 1
+windown_width 0
+windown_height 0

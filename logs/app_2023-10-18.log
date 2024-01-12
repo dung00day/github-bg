@@ -1,0 +1,22 @@
+2023-10-18 08:18:24 - WARNING - result from sfc: 10
+2023-10-18 08:19:20 - WARNING - result from sfc: 10
+2023-10-18 08:50:27 - ERROR - error weight 1
+2023-10-18 09:08:42 - WARNING - result from sfc: 10
+2023-10-18 09:09:32 - ERROR - error weight 1
+2023-10-18 09:10:14 - WARNING - result from sfc: 00
+2023-10-18 09:10:41 - ERROR - error weight 2
+2023-10-18 09:11:18 - WARNING - result from sfc: 00
+2023-10-18 09:11:26 - ERROR - error weight 1
+2023-10-18 09:11:30 - ERROR - error weight 2
+2023-10-18 09:12:26 - ERROR - error scan 2
+2023-10-18 09:12:41 - WARNING - result from sfc: 00
+2023-10-18 09:12:58 - ERROR - error scan 2
+2023-10-18 09:13:01 - WARNING - result from sfc: 00
+2023-10-18 09:13:15 - ERROR - error scan camera 1
+2023-10-18 09:28:02 - WARNING - result from sfc: 00
+2023-10-18 09:28:32 - WARNING - result from sfc: 00
+2023-10-18 09:58:02 - WARNING - result from sfc: 00
+2023-10-18 09:59:40 - WARNING - result from sfc: 00
+2023-10-18 17:34:06 - WARNING - result from sfc: 00
+2023-10-18 17:37:39 - WARNING - result from sfc: 00
+2023-10-18 17:38:03 - WARNING - result from sfc: 00

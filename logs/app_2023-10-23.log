@@ -1,0 +1,13 @@
+2023-10-23 16:56:48 - INFO - result from sfc: 1
+2023-10-23 16:57:16 - WARNING - result from machine 2: 2
+2023-10-23 16:57:16 - WARNING - send signal to plc: 7
+2023-10-23 17:00:53 - WARNING - result from sfc: 2
+2023-10-23 17:01:03 - WARNING - result from machine 2: 2
+2023-10-23 17:01:03 - WARNING - send signal to plc: 8
+2023-10-23 17:08:55 - INFO - result from sfc: 1
+2023-10-23 17:08:58 - WARNING - result from machine 2: 2
+2023-10-23 17:08:58 - WARNING - send signal to plc: 7
+2023-10-23 18:21:26 - ERROR - error scan camera 1
+2023-10-23 18:28:58 - ERROR - error scan camera 1
+2023-10-23 18:30:41 - ERROR - error scan camera 1
+2023-10-23 18:32:46 - ERROR - error scan camera 1

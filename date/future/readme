@@ -1,0 +1,72 @@
+- Viết chương trình cân hàng mẫu
+* Chương trình cân hàng mẫu:
+    + Cần lấy giá trị cân từ cân --> Kết nối với cổng COM của cân
+        --> Khi sử dụng chế độ cân hàng mẫu, cần tắt scf
+        --> Khi ngừng chế độ cân hàng mẫu, cần ngắt kết nối COM
+    + Hiển thị các cặp hàng thỏa mãn điều kiện của cân hàng mẫu
+        --> Cho phép người dùng lựa chọn cặp hàng phù hợp
+    + Gửi kết quả hàng mẫu sang sfc chuyền thủ công để hoàn tất cân hàng mẫu
+
+* Chương trình máy cân tự động:
+    + Cần SFC tự động nên cần tắt sfc thủ công (nếu đang bật)
+    + Run...........
+
+- Khi máy tính bật lên, khởi động chương trình
+    + Khởi động chương trình cân hàng mẫu luôn, nếu nhận tín hiệu 'done hàng mẫu' từ plc thì tắt chương trình
+    cân hàng mẫu đi và mở chương trình cân tự động
+    + Nếu đang chạy chương trình cân tự động, nếu nhận tín hiệu 'cân hàng mẫu' từ plc thì cũng tắt chương trình
+    cân tự động đi để cân hàng mẫu
+
+
+
+- Bonus:
+    + Phát giấy cho mọi người để chia sẻ cảm xúc, những lời thầm kín khó nói nên lời
+
+A. Kế hoạch team building:
+A.1 Cơ cấu giải thưởng: - 1 giải nhất, 1 giải nhì, 1 giải ba và các giải khuyến khích
+A.2 Nội dung
+A.2.1 Chuẩn bị
+- 8h30: Tập trung và di chuyển
+- 8h45: Bắt đầu di chuyển
+- 9h30: Tới nơi và bắt đầu chuẩn bị đồ ăn
+
+A.2.2 Triển khai
+ 11h: Khai tiệc:
+    + Ăn
+    + Khoảng 11h40: bắt đầu chương trình bốc thăm trúng thưởng.
+    * Quy tắc bốc thăm giải thưởng: yêu cầu đảm bảo tính công bằng và minh bạch cho mọi người thì ....
+        - Lựa chọn 1: Buộc chỉ vào các giải thưởng, từng người lên rút chỉ để lấy giải thưởng của mình
+        - Lựa chọn 2: Cho tên mọi người vào vòng quay chiếc nón kì diệu và quay thưởng
+
+- 13h30: Chơi trò chơi:
+    + Khởi động - 5p: Đấm, bóp, xoa
+    + Bắt đầu - 30p đến 45p:
+                lăn lon bia
+                Mảnh ghép trái tim
+                Nói là làm
+                Nhóm 3 nhóm 7
+                Đoán ý đồng đội
+    + Kết thúc - 15p:
+                Đuổi hình bắt chữ
+
+- 14h30: Chụp ảnh kỉ niệm:
+    + 30p: chụp chung toàn văn phòng
+    + 30p: chụp tự do
+
+A.2.3 Kết thúc
+- 15h30: Tập trung và di chuyển về
+
+
+A.3 Giải thích trò chơi:
+1. Đấm, bóp, xoa: Mở nhạc và cho mọi người xếp thành hàng, thực hiện đấm bóp xoa cho người đằng trước
+2. Lăn lon bia: Có các mốc giải thưởng, người chơi lăn lon bia đạt đến mốc giải thưởng nào thì sẽ được nhận giải thưởng đó
+3. Mảnh ghép trái tim:
+- Tổng số người chơi là số chẵn
+- Số trái tim = số người chơi / 2
+- Trái tim sẽ bị cắt làm 2 nửa, chú ý cắt kiểu răng cưa ở giữa sao cho các mảnh trái tim sẽ có răng cưa khác nhau
+- Chia làm 2 đội, mỗi đội sẽ nhận được 1 nửa trái tim
+- Nhiệm vụ: thành viên của 2 đội cần tìm được nhau để ghép thành trái tim hoàn chỉnh
+4. Nói là làm
+5. Nhóm 3 nhóm 7
+6. Đoán ý đồng đội
+7. Đuổi hình bắt chữ

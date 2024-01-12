@@ -1,0 +1,5 @@
+serial_sfc_send COM9
+serial_sfc_receive COM11
+machine1_port COM3
+machine4_port COM15
+baud 9600

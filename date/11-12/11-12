@@ -1,0 +1,3 @@
+- sau khi nhận cân xong, gửi tín hiệu cho plc.
+- nhận tín hiệu scan từ plc ---> scan và gửi mã cho sfc
+- random tín hiệu NG OK trả về từ SFC

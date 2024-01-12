@@ -1,0 +1,61 @@
+2023-10-20 10:34:32 - INFO - result from sfc: 1
+2023-10-20 10:48:50 - INFO - result from sfc: 1
+2023-10-20 11:05:01 - WARNING - result from sfc: 2
+2023-10-20 11:05:08 - INFO - result from sfc: 1
+2023-10-20 11:05:08 - WARNING - result from machine 2: 2
+2023-10-20 11:10:23 - INFO - result from sfc: 1
+2023-10-20 11:10:27 - WARNING - result from sfc: 2
+2023-10-20 11:10:27 - WARNING - result from machine 2: 2
+2023-10-20 13:36:11 - INFO - result from sfc: 1
+2023-10-20 13:36:12 - WARNING - result from sfc: 2
+2023-10-20 13:36:12 - WARNING - result from machine 2: 2
+2023-10-20 13:36:12 - WARNING - send signal to plc: 7
+2023-10-20 14:02:02 - INFO - result from sfc: 1
+2023-10-20 14:02:05 - WARNING - result from sfc: 2
+2023-10-20 14:02:05 - WARNING - result from machine 2: 2
+2023-10-20 14:02:05 - WARNING - send signal to plc: 7
+2023-10-20 15:27:40 - INFO - result from sfc: 1
+2023-10-20 15:27:42 - WARNING - result from sfc: 2
+2023-10-20 15:27:42 - WARNING - result from machine 2: 2
+2023-10-20 15:27:42 - WARNING - send signal to plc: 7
+2023-10-20 15:39:25 - INFO - result from sfc: 1
+2023-10-20 15:39:28 - WARNING - result from sfc: 2
+2023-10-20 15:39:28 - WARNING - result from machine 2: 2
+2023-10-20 15:39:28 - WARNING - send signal to plc: 7
+2023-10-20 15:43:07 - INFO - result from sfc: 1
+2023-10-20 15:43:10 - WARNING - result from sfc: 2
+2023-10-20 15:43:10 - WARNING - result from machine 2: 2
+2023-10-20 15:43:10 - WARNING - send signal to plc: 7
+2023-10-20 15:45:19 - INFO - result from sfc: 1
+2023-10-20 15:45:23 - WARNING - result from sfc: 2
+2023-10-20 15:45:23 - WARNING - result from machine 2: 2
+2023-10-20 15:45:23 - WARNING - send signal to plc: 7
+2023-10-20 15:48:49 - INFO - result from sfc: 1
+2023-10-20 15:48:50 - WARNING - result from sfc: 2
+2023-10-20 15:48:50 - WARNING - result from machine 2: 2
+2023-10-20 15:48:50 - WARNING - send signal to plc: 7
+2023-10-20 15:55:58 - INFO - result from sfc: 1
+2023-10-20 15:56:00 - WARNING - result from sfc: 2
+2023-10-20 15:56:00 - WARNING - result from machine 2: 2
+2023-10-20 15:56:00 - WARNING - send signal to plc: 7
+2023-10-20 15:56:54 - INFO - result from sfc: 1
+2023-10-20 15:56:56 - WARNING - result from sfc: 2
+2023-10-20 15:56:56 - WARNING - result from machine 2: 2
+2023-10-20 15:56:56 - WARNING - send signal to plc: 7
+2023-10-20 15:57:09 - INFO - result from sfc: 1
+2023-10-20 15:57:10 - WARNING - result from sfc: 2
+2023-10-20 15:57:10 - WARNING - result from machine 2: 2
+2023-10-20 15:57:10 - WARNING - send signal to plc: 7
+2023-10-20 16:27:09 - INFO - result from sfc: 1
+2023-10-20 16:32:01 - INFO - result from sfc: 1
+2023-10-20 16:38:51 - INFO - result from sfc: 1
+2023-10-20 16:44:04 - INFO - result from sfc: 1
+2023-10-20 16:46:26 - INFO - result from sfc: 1
+2023-10-20 16:48:56 - INFO - result from sfc: 1
+2023-10-20 16:48:59 - WARNING - result from sfc: 2
+2023-10-20 16:48:59 - WARNING - result from machine 2: 2
+2023-10-20 16:48:59 - WARNING - send signal to plc: 7
+2023-10-20 16:51:16 - INFO - result from sfc: 1
+2023-10-20 16:51:17 - WARNING - result from sfc: 2
+2023-10-20 16:51:17 - WARNING - result from machine 2: 2
+2023-10-20 16:51:17 - WARNING - send signal to plc: 7

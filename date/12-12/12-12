@@ -1,0 +1,2 @@
+- fix lỗi không gửi OKOK cho plc
+- Tìm cách cải thiện chương trình bị exit code (0xC0000005)

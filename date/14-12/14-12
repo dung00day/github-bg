@@ -1,0 +1,4 @@
+- Kiểm tra UI xem lỗi ở đâu (nghi ngờ do thay đổi trạng thái pass, fail + thay đổi cùng lúc nhiều thuộc tính khiến giao diện bị out)
+- Kết nối thêm máy của s4-190 --> OK
+- Thay đổi thời điểm gửi scan cho s4-190
+
